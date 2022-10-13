@@ -1,0 +1,2 @@
+# Needed file
+node-cpr: executable-not-elf-or-script usr/share/nodejs/cpr/bin/usage.txt
